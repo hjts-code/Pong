@@ -9,7 +9,7 @@ function setup(){
 }
 
 function draw(){
-  background("white");
+  background(220);
   
   if(keyDown("space")){
     ball.velocityX = 2;
